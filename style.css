@@ -97,9 +97,11 @@ a {
 a:hover,
 a:focus {
   transform: scale(1.1);
-  transition: transform 250ms;
-  background-image: linear-gradient(to left, #ff713b, #ffa51d);
   transition: all 250ms;
+}
+.read-more-btn:hover,
+.read-more-btn:focus {
+  background-image: linear-gradient(to left, #ff713b, #ffa51d);
 }
 /* Layout */
 
