@@ -96,7 +96,7 @@ a {
 }
 a:hover,
 a:focus {
-  transform: scale(1.1);
+  transform: scale(1.15);
   transition: all 250ms;
 }
 .read-more-btn:hover,
